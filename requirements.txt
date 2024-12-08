@@ -1,5 +1,5 @@
 ctransformers==0.2.5
 sentence-transformers==2.2.2
 pinecone-client
-longchain==0.0.225
+longchain==0.4.2
 flask
